@@ -16,7 +16,7 @@ Este projeto é a resolução de um exercício da matéria Algorítmos e Estrutu
 <br>
 
 <p align="center">
-  <img alt="Projeto PilhaDinamica" src="img_projeto.png" width="100%">
+  <img alt="Projeto PilhaDinamica" src="image_projeto.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
